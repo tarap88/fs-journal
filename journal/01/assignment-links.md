@@ -3,4 +3,4 @@
 * **[Repo](https://github.com/tarap88/<ASSIGNMENT_REPO>)**
 * **[Cool Site](https://github.com/tarap88/Cool-Site)**
 * **[Clone-Site](https://github.com/tarap88/clone-site)**
-* **[Repo](https://github.com/tarap88/<ASSIGNMENT_REPO>)**
+* **[Partner-Clone](https://github.com/tarap88/partner-clone-tara)**

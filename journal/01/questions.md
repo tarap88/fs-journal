@@ -34,7 +34,7 @@
     > | Yes because it is a great way to really understand the project and have a clear idea on what to code. It is also great when working in teams because everyone can visualize what the project end result may look like. It also makes it easier to build the website.|
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | I am a little confused by the question but if I'm understanding correctly it is asking about flex properties such as flex-grow, flex-shrink, flex-basis.  |
 
 11. What `CSS` properties affect the size of a box model?
     > | Some properties that affect size of a box model would be margin, padding, border, width, and height.|
